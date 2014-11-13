@@ -1,0 +1,1 @@
+class { 'drupal_dev': }
